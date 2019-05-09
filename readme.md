@@ -31,8 +31,8 @@
 Optional:
 
 You can download it from mediafire 
--Project (1.22 GB): http://www.mediafire.com/file/65bxbe87e6dfiup/Spectral+Light.rar
--Game Installer(For Teting: 403MB): http://www.mediafire.com/file/kzhjs00e6cjzbfq/Spectral+Light.exe
+- Project (1.22 GB): http://www.mediafire.com/file/65bxbe87e6dfiup/Spectral+Light.rar
+- Game Installer(For Teting: 403MB): http://www.mediafire.com/file/kzhjs00e6cjzbfq/Spectral+Light.exe
 
 # Language
 C#
