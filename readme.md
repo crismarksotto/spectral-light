@@ -26,7 +26,7 @@
 # Installation
 
 1. The unity version used in this project is 5.3.4f1
-2. Download the project via mediafire since github can't handle files greter than 100mb.
+2. Download the project via mediafire since github can't handle files greater than 100mb.
 
 You can download it from mediafire:
 - Project (1.22 GB): http://www.mediafire.com/file/65bxbe87e6dfiup/Spectral+Light.rar
