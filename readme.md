@@ -1,6 +1,6 @@
 # Spectral Light
 
-- 3D first person shooting game made with unity and C#.
+- 3D first person shooting survival game made with unity and C#.
 - Inspired with Special Force Online.
 
 # Features
